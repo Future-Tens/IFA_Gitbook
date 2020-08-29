@@ -1,19 +1,10 @@
 ---
-description: 技能與技能樹
+description: 技能樹與技能資訊
 ---
 
 # 初心者
 
-
-
-```text
-graph TD
-subgraph 初心者
-A[能力特化-力量]
-B[能力特化-智力]
-C[能力特化-體力]
-end
-```
+![&#x521D;&#x5FC3;&#x8005;&#x6280;&#x80FD;&#x6A39;](../../.gitbook/assets/chu-xin-zhe-ji-neng-shu-.png)
 
 **能力特化-力量**
 
