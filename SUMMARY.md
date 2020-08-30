@@ -20,6 +20,7 @@
 * [採礦系統](te-se-xi-tong/cai-kuang-xi-tong.md)
 * [狩獵系統](te-se-xi-tong/shou-lie-xi-tong.md)
 * [房屋系統](te-se-xi-tong/fang-wu-xi-tong.md)
+* [寵物系統](te-se-xi-tong/chong-wu-xi-tong.md)
 * [烹飪系統](te-se-xi-tong/peng-ren-xi-tong.md)
 
 ## 活動專欄
